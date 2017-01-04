@@ -1,6 +1,6 @@
 {
   "name": "@laurelandwolf/react-tokeninput",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Tokeninput component for React",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,8 @@
   },
   "contributors": [
     "Aaron Shafovaloff <ashafovaloff@instructure.com>",
-    "Garron Sanchez <garron@laurelandwolf.com>"
+    "Garron Sanchez <garron@laurelandwolf.com>",
+    "Maia Borghese <maia@laurelandwolf.com>"
   ],
   "license": "MIT",
   "bugs": {
