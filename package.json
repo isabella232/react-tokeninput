@@ -1,6 +1,6 @@
 {
   "name": "@laurelandwolf/react-tokeninput",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Tokeninput component for React",
   "main": "index.js",
   "scripts": {
